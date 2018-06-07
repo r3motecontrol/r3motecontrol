@@ -2,7 +2,7 @@ baseURL = "https://ravibuddi.com"
 languageCode = "en-us"
 title = "r3motecontrol"
 
-theme = "coder"
+theme = "hugo-coder"
 
 paginate = 20
 canonifyurls = true
