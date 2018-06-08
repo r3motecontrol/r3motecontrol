@@ -28,3 +28,9 @@ HUGO_VERSION = "0.41"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
+
+[[redirects]]
+	from = "http://ravibuddi.netlify.com/*"
+	to = "http://ravibuddi.com/:splat"
+	status = 301
+	force = true
