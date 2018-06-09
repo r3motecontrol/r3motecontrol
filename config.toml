@@ -44,5 +44,10 @@ pygmentscodefencesguesssyntax = true
 	name = "Blog"
 	weight = 1
 	url = "/posts/"
+	
+[[menu.main]]
+	name = "Resume"
+	weight = 2
+	url = "/resume.pdf"
 
 
