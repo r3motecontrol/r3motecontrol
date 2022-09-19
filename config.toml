@@ -20,8 +20,8 @@ pygmentscodefencesguesssyntax = true
 	author = "Ravi Buddi"
 	description = "Personal website"
 	
-	hideCredits = false
-	hideCopyright = false
+	hideCredits = true
+	hideCopyright = true
 
 
 	#Custom CSS
